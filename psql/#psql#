@@ -1,0 +1,4 @@
+hostname = 'localhost'
+username = 'uni_pool'
+password = 'uni1cast'
+database = 'test_smccarter'
